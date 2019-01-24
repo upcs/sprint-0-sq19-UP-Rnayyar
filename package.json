@@ -1,0 +1,15 @@
+{
+  "name": "nodejsprograms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "node ./js/server.js",
+    "test": "jest"
+  },
+  "author": "Ravi Nayyar",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
